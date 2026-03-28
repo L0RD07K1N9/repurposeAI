@@ -1,6 +1,6 @@
 {
   "name": "repurpose-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered content repurposing for 5 platforms",
   "scripts": {
     "dev": "next dev",
